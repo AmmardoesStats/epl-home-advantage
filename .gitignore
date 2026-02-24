@@ -1,0 +1,22 @@
+# Data files (download from Kaggle — too large for GitHub)
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
