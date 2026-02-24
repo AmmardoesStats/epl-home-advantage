@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Blog Post](https://img.shields.io/badge/Blog-Read%20the%20Article-purple)](https://ammartyabji.wixsite.com/mysite/post/the-death-of-the-12th-man-how-home-advantage-is-fading-in-the-premier-league)
 
-> *I analysed 9,380 Premier League matches across 25 seasons to trace the slow death of home advantage — and found that the real story is not about stadiums getting quieter. It is about away teams getting smarter.*
+> *I analysed 9,380 Premier League matches across 25 seasons to trace the slow death of home advantage and found that the real story is not about stadiums getting quieter. It is about away teams getting smarter.*
 
 ---
 
